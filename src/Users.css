@@ -1,0 +1,8 @@
+.users-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* centers horizontally */
+    gap: 20px;
+    margin-top: 20px;
+}
